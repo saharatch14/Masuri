@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0549e9a392480e44ca31a5b9e5fae775, type: 3}
+  m_Name: CanScore
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: Wow...you like a pro. Are You sure this is you first time?
+    speaker: Nari
+    speakerimg: {fileID: 21300000, guid: 4ab0d7165a6cb1f43a1df8a5bae058e6, type: 3}
+  - text: You can try again to beat your highscore.
+    speaker: Nari
+    speakerimg: {fileID: 21300000, guid: f6d210a13c75cef40af73e0e842e3e71, type: 3}
